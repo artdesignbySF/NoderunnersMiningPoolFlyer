@@ -25,3 +25,5 @@ field "stratum port" you type in "1337".
 The stratum user is filled with the bitcoin address you want the rewards to be sent to. Additionally you can add a dedicated worker name by adding a "." after your bitcoin address followed by the worker name.
 
 Save the settings and restart your Bitaxe.
+
+Flyer made by the amazing Mr Crown, a true Ungovernable Misfit, Noderunner and Meshtadelian.
